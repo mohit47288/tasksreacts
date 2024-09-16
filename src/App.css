@@ -1,0 +1,8 @@
+/* Add this to ensure the background and layout styling */
+.App {
+  background-color: #2c333f;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
